@@ -2,17 +2,28 @@
 
 **[`@intellectronica`](https://intellectronica.net/)'s agent skills**
 
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td valign="top">
+
 ### [Mastering Agent Skills](https://agentic-ventures.com/mastering-agent-skills)
 
 Join a hands-on workshop for AI power users to use and create Agent Skills.
 
 <a href="https://agentic-ventures.com/mastering-agent-skills"><img src="https://agentic-ventures.com/skills/mastering-agent-skills/opengraph-image?847390cc6f31fc75" width="50%" alt="Mastering Agent Skills"></a>
 
+</td>
+<td valign="top">
+
 ### [Introduction to Agent Skills](https://agentic-ventures.com/introduction-to-agent-skills)
 
 Discover how Agent Skills can customise AI agents in these free tutorials.
 
 <a href="https://agentic-ventures.com/introduction-to-agent-skills"><img src="https://agentic-ventures.com/skills/introduction-to-agent-skills/opengraph-image?7fad56ec884473fb" width="50%" alt="Introduction to Agent Skills"></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
