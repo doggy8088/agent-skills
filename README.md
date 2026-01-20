@@ -10,7 +10,7 @@
 
 Join a hands-on workshop for AI power users to use and create Agent Skills.
 
-<a href="https://agentic-ventures.com/mastering-agent-skills"><img src="https://agentic-ventures.com/skills/mastering-agent-skills/opengraph-image?847390cc6f31fc75" width="50%" alt="Mastering Agent Skills"></a>
+<a href="https://agentic-ventures.com/mastering-agent-skills"><img src="https://agentic-ventures.com/skills/mastering-agent-skills/opengraph-image?847390cc6f31fc75" width="100%" alt="Mastering Agent Skills"></a>
 
 </td>
 <td valign="top">
@@ -19,7 +19,7 @@ Join a hands-on workshop for AI power users to use and create Agent Skills.
 
 Discover how Agent Skills can customise AI agents in these free tutorials.
 
-<a href="https://agentic-ventures.com/introduction-to-agent-skills"><img src="https://agentic-ventures.com/skills/introduction-to-agent-skills/opengraph-image?7fad56ec884473fb" width="50%" alt="Introduction to Agent Skills"></a>
+<a href="https://agentic-ventures.com/introduction-to-agent-skills"><img src="https://agentic-ventures.com/skills/introduction-to-agent-skills/opengraph-image?7fad56ec884473fb" width="100%" alt="Introduction to Agent Skills"></a>
 
 </td>
 </tr>
