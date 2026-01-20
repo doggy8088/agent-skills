@@ -51,6 +51,8 @@ def generate_table(skills: list[dict], repo_url: str) -> str:
         skill_link = f"[{skill['name']}]({repo_url}/tree/main/skills/{skill['name']})"
         description = skill["description"].replace("|", "\\|").replace("\n", " ")
         lines.append(f"| {skill_link} | {description} |")
+        install_cmd = f'```npx skills add intellectronica/agent-skills --skill "{skill["name"]}"```'
+        lines.append(f"| | {install_cmd} |")
 
     return "\n".join(lines)
 
