@@ -47,6 +47,8 @@ Discover how Agent Skills can customise AI agents in these free tutorials.
 | | ```npx skills add intellectronica/agent-skills --skill "nano-banana-pro"``` |
 | [promptify](https://github.com/intellectronica/agent-skills/tree/main/skills/promptify) | Transform user requests into detailed, precise prompts for AI models. Use when users say "promptify", "promptify this", or explicitly request prompt engineering or improvement of their request for better AI responses. |
 | | ```npx skills add intellectronica/agent-skills --skill "promptify"``` |
+| [ray-so-code-snippet](https://github.com/intellectronica/agent-skills/tree/main/skills/ray-so-code-snippet) | Generate beautiful code snippet images using ray.so. This skill should be used when the user asks to create a code image, code screenshot, code snippet image, or wants to make their code look pretty for sharing. Saves images locally to the current working directory or a user-specified path. |
+| | ```npx skills add intellectronica/agent-skills --skill "ray-so-code-snippet"``` |
 | [tavily](https://github.com/intellectronica/agent-skills/tree/main/skills/tavily) | Use this skill for web search, extraction, mapping, crawling, and research via Tavily’s REST API when web searches are needed and no built-in tool is available, or when Tavily’s LLM-friendly format is beneficial. |
 | | ```npx skills add intellectronica/agent-skills --skill "tavily"``` |
 | [ultrathink](https://github.com/intellectronica/agent-skills/tree/main/skills/ultrathink) | Display colorful ANSI art of the word "ultrathink". Use when the user says "ultrathink" or invokes /ultrathink. |
