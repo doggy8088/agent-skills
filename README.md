@@ -54,6 +54,7 @@ npx skills add intellectronica/agent-skills --skill anki-connect
 
 ---
 
+
 | Skill | Description |
 |-------|-------------|
 | [anki-connect](https://github.com/intellectronica/agent-skills/tree/main/skills/anki-connect) | This skill is for interacting with Anki through AnkiConnect, and should be used whenever a user asks to interact with Anki, including to read or modify decks, notes, cards, models, media, or sync operations. |
